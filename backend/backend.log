@@ -1,0 +1,12 @@
+ * Serving Flask app 'flask_server'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [27/Mar/2026 23:28:26] "POST /start-eye-tracking HTTP/1.1" 200 -
+127.0.0.1 - - [27/Mar/2026 23:33:09] "OPTIONS /api/analyzeConversation HTTP/1.1" 200 -
+127.0.0.1 - - [27/Mar/2026 23:33:09] "OPTIONS /api/analyzeConversation HTTP/1.1" 200 -
+127.0.0.1 - - [27/Mar/2026 23:37:22] "OPTIONS /api/analyzeConversation HTTP/1.1" 200 -
+127.0.0.1 - - [27/Mar/2026 23:37:22] "OPTIONS /api/analyzeConversation HTTP/1.1" 200 -
+127.0.0.1 - - [27/Mar/2026 23:37:29] "POST /start-eye-tracking HTTP/1.1" 200 -
+127.0.0.1 - - [27/Mar/2026 23:37:41] "POST /stop-eye-tracking HTTP/1.1" 200 -
